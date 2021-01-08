@@ -1,0 +1,37 @@
+---
+
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+  - name: All
+    filter: "all"
+  - name: Professional
+    filter: "professional"
+  - name: Hobby
+    filter: "hobby"
+
+# your projects
+projects:
+  - name: Mindbakery
+    logo: /images/mindbakery.png
+    role: Founder & Product Designer
+    timeline: "Nov 2020 - Present"
+    url: "https://mindbakery.shop/"
+    summary: "Passive Income - Dropshipping Store"
+    tags: ["woocommerce", "dropshipping", "fashion"]
+
+  - name: Electronic Music
+    logo: /images/soundcloud.svg
+    role: Producer
+    timeline: "March 2010 - 2018"
+    url: "https://soundcloud.com/crossing-chris"
+    summary: "Some tracks I produced with a lot of love"
+    tags: ["fruityloops", "music", "electro", "techno"]

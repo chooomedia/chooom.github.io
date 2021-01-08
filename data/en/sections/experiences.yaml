@@ -1,0 +1,69 @@
+---
+
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+experiences:
+  - company:
+      name: CHOOOMEDIA
+      url: "https://chooomedia.de"
+      location: Lindau/Munich
+      # company overview
+      overview: Wordpress, Woocommerce & Shopify Webpages Designer and Developer
+    positions:
+      - designation: Founder, Designer & Developer
+        start: Aug 2018
+        responsibilities:
+          - Acquisition of new customers.
+          - Support of existing customers.
+          - Template design and development.
+
+  - company:
+      name: Daypaio
+      url: "https://daypaio.com"
+      location: Munich/Germany
+      overview: CRM as a Service
+    positions:
+      - designation: Software Developer
+        start: Jul 2018
+        end: Oct 2018
+        responsibilities:
+          - Conversion of the application.
+          - Extension of the language packages.
+          - Support at the customer site.
+
+  - company:
+      name: DBI Analytics
+      url: "https://abis-cloud.de"
+      location: Munich/Germany
+      overview: Modular Cloud System for smart data assistants.
+    positions:
+      - designation: UI Designer & Developer
+        start: Feb 2018
+        end: Jun 2019
+        responsibilities:
+          - Design of the User Interface.
+          - Novel conceptual approaches for the interface.
+          - UI development using Angular & Typescript.
+          - Planning and implementation of Meetups.
+
+  - company:
+      name: Plan.Net Business Intelligence GmbH & Co. KG
+      url: "https://www.plan-net.com/"
+      location: Munich/Germany
+      overview: Business Intelligence Dashboards for KMUs.
+    positions:
+      - designation: Frontend Developer
+        start: Aug 2017
+        end: Jan 2018
+        responsibilities:
+          - Development of marketing dashboards for key accounts.
+          - UI Design and Development
+          - Further training in business etiquette, innovation and design.

@@ -1,0 +1,53 @@
+---
+
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  - name: Wordpress
+    icon: "/images/wordpress.svg"
+    summary: "Maintenance, extension and development of templates and plugins. Implementation and testing of security tools."
+    url: "https://wordpress.org/"
+
+  - name: Bootstrap
+    icon: "/images/bootstrap.svg"
+    summary: "World's most popular CSS framework for a wide range of applications."
+    url: "https://www.getbootstrap.com/"
+
+  - name: JavaScript
+    icon: "/images/javascript.svg"
+    summary: "Development of small webapps, helper scripts or fancy animations."
+
+  - name: Jira
+    icon: "/images/jira.svg"
+    summary: "Working according to Scrum or Kanban - clear communication and agile work."
+
+  - name: Adobe XD
+    icon: "/images/adobexd.svg"
+    summary: "Conception and design of various user interfaces in close cooperation with developers and architects."
+    url: "https://www.adobe.com/de/products/xd.html"
+
+  - name: Linux
+    icon: "/images/linux.svg"
+    summary: "Used as the main operating system before MacOS. Capable of writing bash scripts."
+
+  - name: MacOS
+    icon: "/images/apple.svg"
+    summary: "Used as the main operating system. Capable of writing bash scripts."
+
+  - name: Windows
+    icon: "/images/linux.svg"
+    summary: "Use for multiple uses. Advice and service to customers."
+
+  - name: Git
+    icon: "/images/git.svg"
+    summary: "Experienced with git-based development. Mostly Github. Experienced with GitLab."
+    url: "https://git-scm.com/"

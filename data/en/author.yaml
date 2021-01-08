@@ -1,0 +1,17 @@
+---
+
+name: "Christopher Matt"
+nickname: "chooom"
+image: "images/avatar.jpg"
+
+greeting: "Hi, I am"
+
+contactInfo:
+  email: "chooom@gmx.de"
+#  phone: "+0123456789"
+
+summary:
+  - I love empathic conversations
+  - I love inteligent design
+  - I love fancy websites
+  - I love JavaScript

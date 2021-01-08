@@ -1,0 +1,62 @@
+---
+
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Designer & Developer
+
+company:
+  name: CHOOOMEDIA
+  url: "https://chooomedia.de"
+
+# resume: "files/resume.pdf"
+summary: 'I am a trained carpenter, digital native and love good design, code and food.'
+
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "christopher.matt@online.de"
+
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/chooomedia"
+
+  - name: Stackoverflow
+    icon: "fab fa-stack-overflow"
+    url: "#"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/chooomedia/"
+
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/chooom"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+  - name: Leadership
+    percentage: 60
+    color: blue
+  - name: Team Work
+    percentage: 90
+    color: yellow
+  - name: Communication
+    percentage: 75
+    color: pink
+  - name: Hard Working
+    percentage: 80
+    color: green
+  - name: Fast Learner
+    percentage: 60
+    color: sky
+  - name: Problem Solving
+    percentage: 75
+    color: orange
